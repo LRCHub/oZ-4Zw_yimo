@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "性別なんてクソくらえ",
+  "base_artist": "Takayan",
+  "createdAt": "2026-03-19T18:43:13.916627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "性別なんてクソくらえ",
+      "artist": "Takayan - Topic",
+      "has_synced": true,
+      "path": "select/01_性別なんてクソくらえ_Takayan_-_Topic.lrc"
+    }
+  ]
+}
